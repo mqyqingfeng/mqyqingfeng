@@ -4,3 +4,4 @@
 
 * 公众号：[冴羽的 JavaScript 博客](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
 * 微信号：[mqyqingfeng](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/IMG_3516.JPG)
+* [可能是中国最好的 TS 入门到进阶系统教程](http://ts.yayujs.com/)
