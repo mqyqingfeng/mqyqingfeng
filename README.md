@@ -4,5 +4,5 @@
 
 * 公众号：[冴羽的 JavaScript 博客](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
 * 微信号：[mqyqingfeng](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/IMG_3516.JPG)
+* [茶话会：认识自己、克服拖延、快速成长](https://www.yuque.com/yayu/blog/grow)
 * [可能是中国最好的 TS 入门到进阶系统教程](http://ts.yayujs.com/)
-* [冴羽答读者问](https://www.yuque.com/yayu/ask/dzng83)
