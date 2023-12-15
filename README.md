@@ -6,3 +6,4 @@
 * 微信号：[mqyqingfeng](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/IMG_3516.JPG)
 * [茶话会：认识自己、克服拖延、快速成长](https://www.yuque.com/yayu/blog/grow)
 * [可能是中国最好的 TS 入门到进阶系统教程](http://ts.yayujs.com/)
+* 小册：[《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)
