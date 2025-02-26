@@ -4,6 +4,7 @@
 
 * 技术：[文章全合集](https://github.com/mqyqingfeng/Blog)
 * 博客：[https://yayujs.com/](https://yayujs.com/)
+* 星球：[冴羽·前端大佬成长之路](https://t.zsxq.com/Z9f1e)
 * 社群：[“低调务实优秀中国好青年”前端社群](https://www.yuque.com/yayu/nice-people/xou8qr)
 * 成长：[茶话会](https://www.yuque.com/yayu/blog/grow)、[微信读书](https://yayujs.com/grow)
 * 小册：[《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)、[《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)
